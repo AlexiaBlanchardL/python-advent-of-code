@@ -4,6 +4,7 @@ from year_2023.day_2 import CubeConundrumPart1, CubeConundrumPart2
 from year_2023.day_3 import GearRatiosPart1, GearRatiosPart2
 from year_2023.day_4 import ScratchCardsPart1, ScratchCardsPart2
 from year_2023.day_5 import FertilizerPart1, FertilizerPart2
+from year_2023.day_6 import BoatRacePart1, BoatRacePart2
 
 
 if __name__ == "__main__":
@@ -19,3 +20,5 @@ if __name__ == "__main__":
     ScratchCardsPart2().response()
     FertilizerPart1().response()
     FertilizerPart2().response()
+    BoatRacePart1().response()
+    BoatRacePart2().response()
