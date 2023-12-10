@@ -1,7 +1,5 @@
-from typing import List, Tuple, Dict
 import numpy as np
 import pandas as pd
-import plotly.express as px
 
 from common.challenge import Challenge
 
